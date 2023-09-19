@@ -1,0 +1,9 @@
+/home/simone/thesis_ws/build/set_env_pkg/CMakeFiles/uninstall.dir
+/home/simone/thesis_ws/build/set_env_pkg/CMakeFiles/set_env_pkg_uninstall.dir
+/home/simone/thesis_ws/build/set_env_pkg/CMakeFiles/test.dir
+/home/simone/thesis_ws/build/set_env_pkg/CMakeFiles/edit_cache.dir
+/home/simone/thesis_ws/build/set_env_pkg/CMakeFiles/rebuild_cache.dir
+/home/simone/thesis_ws/build/set_env_pkg/CMakeFiles/list_install_components.dir
+/home/simone/thesis_ws/build/set_env_pkg/CMakeFiles/install.dir
+/home/simone/thesis_ws/build/set_env_pkg/CMakeFiles/install/local.dir
+/home/simone/thesis_ws/build/set_env_pkg/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/home/simone/thesis_ws/src/set_env_pkg/launch/setup.launch.py

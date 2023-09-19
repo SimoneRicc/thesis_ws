@@ -1,0 +1,4 @@
+Invoking command in '/home/simone/thesis_ws/build/set_env_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/simone/thesis_ws/build/set_env_pkg -- -j12 -l12
+Invoked command in '/home/simone/thesis_ws/build/set_env_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/simone/thesis_ws/build/set_env_pkg -- -j12 -l12
+Invoking command in '/home/simone/thesis_ws/build/set_env_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/simone/thesis_ws/build/set_env_pkg
+Invoked command in '/home/simone/thesis_ws/build/set_env_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/simone/thesis_ws/build/set_env_pkg

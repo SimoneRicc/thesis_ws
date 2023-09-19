@@ -1,0 +1,57 @@
+[0.012s] Invoking command in '/home/simone/thesis_ws/build/set_env_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/simone/thesis_ws/src/set_env_pkg -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/thesis_ws/install/set_env_pkg
+[0.026s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.138s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.154s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.206s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.206s] -- Added test 'lint_cmake' to check CMake code style
+[0.207s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.209s] -- Added test 'xmllint' to check XML markup files
+[0.213s] -- Configuring done
+[0.217s] -- Generating done
+[0.218s] -- Build files have been written to: /home/simone/thesis_ws/build/set_env_pkg
+[0.220s] Invoked command in '/home/simone/thesis_ws/build/set_env_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/simone/thesis_ws/src/set_env_pkg -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/simone/thesis_ws/install/set_env_pkg
+[0.222s] Invoking command in '/home/simone/thesis_ws/build/set_env_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/simone/thesis_ws/build/set_env_pkg -- -j12 -l12
+[0.242s] Invoked command in '/home/simone/thesis_ws/build/set_env_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/simone/thesis_ws/build/set_env_pkg -- -j12 -l12
+[0.256s] Invoking command in '/home/simone/thesis_ws/build/set_env_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/simone/thesis_ws/build/set_env_pkg
+[0.259s] -- Install configuration: ""
+[0.260s] -- Execute custom install script
+[0.260s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/config/ekf.yaml
+[0.260s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/launch/setup.launch.py
+[0.260s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/maps/smalltown_world.pgm
+[0.261s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/maps/smalltown_world.yaml
+[0.261s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/meshes/arm_base.stl
+[0.261s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/meshes/bicep.stl
+[0.261s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/meshes/elbow.stl
+[0.261s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/meshes/robot_base.stl
+[0.261s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/meshes/wheel.stl
+[0.261s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/meshes/wrist.stl
+[0.261s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/models/robot_model.urdf
+[0.262s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/models/robot_model_description/meshes/arm_base.stl
+[0.262s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/models/robot_model_description/meshes/bicep.stl
+[0.262s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/models/robot_model_description/meshes/elbow.stl
+[0.262s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/models/robot_model_description/meshes/robot_base.stl
+[0.262s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/models/robot_model_description/meshes/wheel.stl
+[0.263s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/models/robot_model_description/meshes/wrist.stl
+[0.263s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/models/robot_model_description/model.config
+[0.263s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/models/robot_model_description/robot_model.sdf
+[0.263s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/params/nav2_params.yaml
+[0.263s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/rviz/nav2_config.rviz
+[0.263s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/rviz/nav2_config.rviz:Zone.Identifier
+[0.263s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/rviz/urdf_config.rviz
+[0.264s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/worlds/smalltown/smalltown.world
+[0.264s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/ament_index/resource_index/package_run_dependencies/set_env_pkg
+[0.264s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/ament_index/resource_index/parent_prefix_path/set_env_pkg
+[0.264s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/environment/ament_prefix_path.sh
+[0.264s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/environment/ament_prefix_path.dsv
+[0.264s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/environment/path.sh
+[0.264s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/environment/path.dsv
+[0.265s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/local_setup.bash
+[0.265s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/local_setup.sh
+[0.265s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/local_setup.zsh
+[0.265s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/local_setup.dsv
+[0.265s] -- Symlinking: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/package.dsv
+[0.269s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/ament_index/resource_index/packages/set_env_pkg
+[0.269s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/cmake/set_env_pkgConfig.cmake
+[0.270s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/cmake/set_env_pkgConfig-version.cmake
+[0.270s] -- Up-to-date symlink: /home/simone/thesis_ws/install/set_env_pkg/share/set_env_pkg/package.xml
+[0.271s] Invoked command in '/home/simone/thesis_ws/build/set_env_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/simone/thesis_ws/build/set_env_pkg
